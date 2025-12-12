@@ -3,6 +3,8 @@
 A Note taking / todos App
 built on Electron with React, TypeScript, Tailwind and more.
 
+**THIS PROJECT WAS MADE FOR APTECH VISION 2024**
+
 ## Video Preview
 
 Youtube Link: [youtu.be/oKljpDBS_HQ](https://youtu.be/oKljpDBS_HQ)
